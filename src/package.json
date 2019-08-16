@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "react-native-paper": "2.16.0",
-    "react-native-elements": "1.1.0"
+    "react-native-elements": "1.1.0",
+    "moment": "2.24.0",
+    "react-native-modal-datetime-picker": "7.5.0",
+    "uuid/v4": "3.3.2"
   }
 }
